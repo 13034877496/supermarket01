@@ -1,0 +1,13 @@
+<component name="ArtifactManager">
+  <artifact type="exploded-war" name="jsp_shop_kucun:war exploded">
+    <output-path>$PROJECT_DIR$/out/artifacts/jsp_shop_kucun_war_exploded</output-path>
+    <root id="root">
+      <element id="directory" name="WEB-INF">
+        <element id="directory" name="classes">
+          <element id="module-output" name="jsp_shop_kucun" />
+        </element>
+      </element>
+      <element id="javaee-facet-resources" facet="jsp_shop_kucun/web/Web" />
+    </root>
+  </artifact>
+</component>
